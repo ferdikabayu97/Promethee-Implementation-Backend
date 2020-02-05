@@ -1,0 +1,6 @@
+[08-May-2019 11:32:35 UTC] PHP Warning:  require(/home/rekusaha/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/rekusaha/public_html/index.php on line 24
+[08-May-2019 11:32:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/rekusaha/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rekusaha/public_html/index.php on line 24
+[08-May-2019 11:32:42 UTC] PHP Warning:  require(/home/rekusaha/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/rekusaha/public_html/index.php on line 24
+[08-May-2019 11:32:42 UTC] PHP Fatal error:  require(): Failed opening required '/home/rekusaha/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rekusaha/public_html/index.php on line 24
+[08-May-2019 11:32:43 UTC] PHP Warning:  require(/home/rekusaha/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/rekusaha/public_html/index.php on line 24
+[08-May-2019 11:32:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/rekusaha/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rekusaha/public_html/index.php on line 24
